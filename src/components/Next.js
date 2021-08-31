@@ -7,3 +7,5 @@ export default function ScrollToTop() {
   }, [pathname]);
   return null;
 }
+
+//solution of new page render from the top
